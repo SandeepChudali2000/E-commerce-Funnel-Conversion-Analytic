@@ -137,8 +137,4 @@ fig_time = px.line(
 
 st.plotly_chart(fig_time, use_container_width=True)
 
-# ----------------------------------
-# Footer
-# ----------------------------------
-st.markdown("---")
-st.markdown("📌 **Built from Jupyter Notebook → Streamlit Dashboard**")
+
